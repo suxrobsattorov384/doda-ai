@@ -1,0 +1,26 @@
+🔍 CHAT ID OLISH YO'RIQNOMASI
+
+1️⃣ USUL 1 - @userinfobot orqali:
+   • Telegramda @userinfobot ni toping
+   • /start yuboring
+   • U sizga ID ni beradi
+   • Masalan: 987654321
+
+2️⃣ USUL 2 - Brauzer orqali:
+   • Botga /start yuboring: @quloqdagi_kitob_bot
+   • Brauzerda oching: https://api.telegram.org/bot7924051668:AAH9MbkrQY_nlQgTkoKLChZmkWzaYPz7Udo/getUpdates
+   • "chat":{"id":123456789} qismini toping
+
+3️⃣ USUL 3 - Script orqali:
+   • Botga /start yuboring
+   • Terminal da: node get_chat_id.js
+
+📝 Chat ID ni olgach:
+   • .env faylida TELEGRAM_CHAT_ID=123456789 qilib o'zgartiring
+   • Server ni qayta ishga tushiring: npm start
+
+✅ Test qilish:
+   • Saytga kiring: http://localhost:3001
+   • "Kirish" tugmasini bosing
+   • Yangi hisob yarating
+   • Telegramga xabar kelishi kerak!
